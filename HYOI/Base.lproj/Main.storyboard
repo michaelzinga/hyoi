@@ -289,6 +289,13 @@
                     <view key="view" contentMode="scaleToFill" id="GdU-Wl-9Pl">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="foP-Ez-GQi">
+                                <rect key="frame" x="259" y="388" width="31" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="あか"/>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="1" green="0.28739094529999998" blue="0.33400933620000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="yVO-hl-26U"/>
                     </view>
